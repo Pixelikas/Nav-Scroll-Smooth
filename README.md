@@ -1,2 +1,2 @@
 # Nav-Scroll-Smooth
-Basic navabar with smooth scroll to sections.
+Basic navbar with smooth scroll to sections, made with HTML, JavaScript and CSS.<br><br>
